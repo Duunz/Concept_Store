@@ -1,7 +1,7 @@
 // src/app/layout.jsx
 "use client"; // Agrega esta línea
 
-import './globals.css';
+
 import './styles/HomePage.css';
 import './styles/Login.css';
 import './styles/Register.css';

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import '../styles/Register.css';
 
 function Register({ onRegister, onSwitchToLogin }) {
   const [username, setUsername] = useState('');
