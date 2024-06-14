@@ -2,9 +2,7 @@
 "use client"; // Agrega esta línea
 
 import React, { useState } from 'react';
-import './styles/HomePage.css';
-import './styles/Login.css';
-import './styles/Register.css';
+
 import Login from './components/Login';
 import Register from './components/Register';
 import HomePage from './components/HomePage';
