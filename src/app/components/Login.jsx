@@ -11,7 +11,7 @@ export default function Login({ onLogin, onSwitchToRegister }) {
   };
 
   return (
-    <div>
+    <div className="login-background">
       <h2>Login</h2>
       <form onSubmit={handleSubmit}>
         <div>
